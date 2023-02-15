@@ -1,0 +1,75 @@
+{
+  "filmes": [
+    {
+      "id": 2,
+      "nome": "Vingadores End Game",
+      "duracao": "3h2minutos",
+      "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+      "genero": "Ação",
+      "banner": "https://picfiles.alphacoders.com/458/thumb-458644.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Velozes e Furiosos 7",
+      "duracao": "2h 20minutos",
+      "descricao": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+      "genero": "Ação",
+      "banner": "http://s2.glbimg.com/DBBtbkFMlrmPGzrnesexRGFGecw=/620x930/smart/e.glbimg.com/og/ed/f/original/2015/02/06/velozes.jpeg"
+    },
+    {
+      "id": 3,
+      "nome": "Space Jam: Um Novo Legado",
+      "duracao": "1h 56minutos",
+      "descricao": "Ao superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.",
+      "genero": "Animação",
+      "banner": "https://media.fstatic.com/hxEmJ3hBsZ9TW9aYFdaeC9flfWc=/322x478/smart/filters:format(webp)/media/movies/covers/2021/07/images_51.jpeg"
+    }
+  ],
+
+  "clientes": [
+    {
+      "nome": "Daniel",
+      "email": "daniel@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "nome": "Marta",
+      "email": "marta@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "nome": "Juliana",
+      "email": "juliana@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "combos": [
+
+    {
+      "id": 2,
+      "nome": "combo",
+      "preco": "59,90",
+      "descricao": 2,
+      "banner": "https://www.kinoplex.com.br/bomboniere/images/salgados/combo-mega.jpg"
+    },
+
+   {
+      "id": 3,
+      "nome": "combo",
+      "preco": "59,90",
+      "descricao": 2,
+      "banner": "https://www.kinoplex.com.br/bomboniere/images/salgados/combo-giga-duplo.png"
+    },
+
+    {
+      "id": 4,
+      "nome": "combo",
+      "preco": "59,90",
+      "descricao": 2,
+      "banner": "https://www.kinoplex.com.br/bomboniere/images/salgados/combo-familia-mega.jpg"
+    }
+  ]
+}
