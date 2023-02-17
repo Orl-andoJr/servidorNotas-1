@@ -51,8 +51,8 @@
     {
       "id": 2,
       "nome": "combo",
-      "preco": "59,90",
-      "descricao": 2,
+      "preco": "39,90",
+      "descricao": 1  Copo de 700ml com 1 Pipoca Mega,
       "banner": "https://www.kinoplex.com.br/bomboniere/images/salgados/combo-mega.jpg"
     },
 
@@ -60,15 +60,15 @@
       "id": 3,
       "nome": "combo",
       "preco": "59,90",
-      "descricao": 2,
+      "descricao": 2 Copos de 1000ml com Pipoca Giga,
       "banner": "https://www.kinoplex.com.br/bomboniere/images/salgados/combo-giga-duplo.png"
     },
 
     {
       "id": 4,
       "nome": "combo",
-      "preco": "59,90",
-      "descricao": 2,
+      "preco": "69,99",
+      "descricao": 2 Copos de 700ml com Pipoca Mega,
       "banner": "https://www.kinoplex.com.br/bomboniere/images/salgados/combo-familia-mega.jpg"
     }
   ]
